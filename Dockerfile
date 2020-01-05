@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:b1f72e974058576faf5f62d984d2ce4edb18b12ae4a4cd673d3fffe7d7706837
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:fb8c72dc3c2897193a04459e2e05fc56f47228fe37981d7b653e87f1725a54bb
 MAINTAINER cx
